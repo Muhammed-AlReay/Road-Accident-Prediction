@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Road-Accident-Prediction.git
+   git clone https://github.com/Muhammed-AlReay/Road-Accident-Prediction.git
    cd Road-Accident-Prediction
    ```
 
